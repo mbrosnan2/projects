@@ -5,7 +5,7 @@
 ### Professional
 
 [Executive Summary Dashboard](/sample_page)
-<img src="Execdash.png?raw=true"/>
+<img src="Execdash.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
