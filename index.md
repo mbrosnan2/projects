@@ -4,7 +4,7 @@
 
 ### Professional
 
-[Executive Summary Dashboard]
+Executive Summary Dashboard
 <img src="images/Execdash.jpg?raw=true"/>
 
 ---
